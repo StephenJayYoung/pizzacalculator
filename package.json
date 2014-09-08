@@ -1,0 +1,15 @@
+{
+  "name": "pizzacalculator",
+  "version": "1.0.0",
+  "description": "calculates how many pizza's you need for a party",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pizzacalculator"
+  },
+  "author": "Stephen Jay Young",
+  "license": "ISC"
+}
